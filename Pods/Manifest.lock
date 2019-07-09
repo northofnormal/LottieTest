@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (3.1.1)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+    - SnapKit
+
+SPEC CHECKSUMS:
+  lottie-ios: 43a472d22b2dd2bed292cc4010c0b4d2e66d3ba8
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: e8a6e67d99ccc290d205a62273b13ccad2940921
+
+COCOAPODS: 1.6.1
